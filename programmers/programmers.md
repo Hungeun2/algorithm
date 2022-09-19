@@ -2,6 +2,7 @@
 
 - [x] Level2 [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)
 - [x] Level2 [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [x] Level2 [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 
 ## 📖 코딩테스트 고득점 Kit 문제
 
