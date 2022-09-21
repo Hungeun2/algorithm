@@ -5,6 +5,11 @@
 - [x] Level2 [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - [x] Level3 [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
 
+## 📖 2022 KAKAO BLIND RECRUITMENT
+
+- [x] Level2 [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
+- [x] Level2 [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+
 ## 📖 코딩테스트 고득점 Kit 문제
 
 ### 📝1주차 스택/큐
