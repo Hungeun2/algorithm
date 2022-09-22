@@ -9,6 +9,7 @@
 
 - [x] Level2 [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [x] Level2 [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
+- [x] Level3 [파괴되지 않는 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)
 
 ## 📖 코딩테스트 고득점 Kit 문제
 
