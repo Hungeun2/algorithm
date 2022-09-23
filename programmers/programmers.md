@@ -4,6 +4,7 @@
 - [x] Level2 [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [x] Level2 [최대값과 최소값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 - [x] Level3 [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)
+- [x] Level2 [JadenCase 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 
 ## 📖 2022 KAKAO BLIND RECRUITMENT
 
